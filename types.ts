@@ -5,12 +5,10 @@ export interface Message {
   timestamp: Date;
 }
 
+/**
+ * Interface representing a chunk of text with its relevance score for keyword-based ranking.
+ */
 export interface Chunk {
   text: string;
   score: number;
-}
-
-export interface RagContext {
-  content: string;
-  chunks: string[];
 }

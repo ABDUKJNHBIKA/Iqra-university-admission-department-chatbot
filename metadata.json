@@ -1,5 +1,5 @@
 {
-  "name": "Iqra University Admission Bot",
+  "name": "Iqra University Admission chatBot",
   "description": "A RAG-based AI assistant designed to help prospective students with Iqra University admission queries using custom data files.",
   "requestFramePermissions": []
 }
